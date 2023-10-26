@@ -9,7 +9,12 @@ import java.time.format.DateTimeFormatter;
 import java.util.Locale;
 /**
  *
- * @author Lenovo
+ * @author user
+ Nama              : Farchatul Hudayah
+ Nim               : 22205071
+ Prodi             : Teknik Informatika
+ Kelas             : PBO1
+ Deskripsi Program : Program ini berisi program untuk Menampilkan waktu saat ini termasuk hari ini
  */
 public class Latihan26 {
 
